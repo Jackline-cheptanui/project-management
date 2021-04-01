@@ -1,0 +1,11 @@
+body{
+    background-image: url(image/communication.jpg);
+    background-repeat: no-repeat;
+    background-color: brown;
+}
+h1{
+    font-size: 60px;
+    font-style: italic;
+    text-decoration: underline;
+    color: brown;
+}
